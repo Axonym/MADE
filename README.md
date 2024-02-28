@@ -11,5 +11,5 @@ There are two ways how you can enable this list.
 # uBlock Origin
 1. Open uBlock Origin settings
 2. Go to Filter lists tab
-3. At the bottom of the page, paste [this](https://raw.githubusercontent.com/Axonym/MADE/main/ublocklist.txt) link to the Import textbox.
+3. At the bottom of the page, paste [this](https://raw.githubusercontent.com/Axonym/MADE/main/ublocklist.txt) link to the Import textbox
 4. Click Apply Changes at the top of the page
