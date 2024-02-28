@@ -1,5 +1,5 @@
 # MADE
-MADE combines many abused domain endings known to be used by scammers.
+MADE combines Most Abused Domain Endings known to be used by scammers.
 
 There are two ways how you can enable this list.
 
